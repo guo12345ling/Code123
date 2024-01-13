@@ -3,3 +3,4 @@
            3、Intraday pairs trading strategies on high frequency data: the case of oil companies
            4、Pairs trading with a mean-reverting jump–diffusion model on high-frequency data
 目前的想法是：找个合适的算法在上证180上做pairs trading实验。
+Github token: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
